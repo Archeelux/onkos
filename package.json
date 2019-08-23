@@ -11,6 +11,7 @@
     "dependencies": {
         "dotenv": "^8.1.0",
         "glob": "^7.1.4",
+        "minimist": "^1.2.0",
         "node-alias": "^1.0.4",
         "randomstring": "^1.1.5",
         "replace-in-file": "^4.1.3"
